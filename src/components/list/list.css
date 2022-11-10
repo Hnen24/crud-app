@@ -1,0 +1,12 @@
+li {
+ display: flex;
+ justify-content: space-between;
+}
+
+span {
+  margin-block: 3px;
+}
+
+button {
+ margin-inline: 3px;
+}
